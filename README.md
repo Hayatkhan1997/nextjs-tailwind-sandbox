@@ -3,7 +3,7 @@ title: Employee mamangement
 last update: '2023-08-15'
 ---
 
-# Next.js Tailwind SandBox
+# Employee mamangement
 
 ## Preferred classes for different pages
 
